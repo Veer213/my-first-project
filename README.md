@@ -1,2 +1,2 @@
 # my-first-project
- A shoe store 
+ i have craeted this shoe store only using html and css 
